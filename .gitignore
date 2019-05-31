@@ -1,0 +1,8 @@
+.settings/
+0_batch/*.lnk
+docs/apidocs
+logs/
+target/
+target-eclipse/
+.classpath
+.project
