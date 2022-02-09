@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.javadoc.plugin.version>3.1.0</maven.javadoc.plugin.version>
-		<hibernate.core.version>5.4.2.Final</hibernate.core.version>
+		<hibernate.core.version>5.4.24.Final</hibernate.core.version>
 		<hibernate.c3p0.version>5.4.2.Final</hibernate.c3p0.version>
 		<slf4j.log4j12.version>1.7.26</slf4j.log4j12.version>
 		<mysql.connector.java.version>8.0.16</mysql.connector.java.version>
