@@ -18,7 +18,7 @@
 		<hibernate.core.version>5.4.2.Final</hibernate.core.version>
 		<hibernate.c3p0.version>5.4.2.Final</hibernate.c3p0.version>
 		<slf4j.log4j12.version>1.7.26</slf4j.log4j12.version>
-		<mysql.connector.java.version>8.0.16</mysql.connector.java.version>
+		<mysql.connector.java.version>8.0.28</mysql.connector.java.version>
 		<c3p0.version>0.9.5.4</c3p0.version>
 		<jsf.version>2.2.19</jsf.version>
 		<junit.version>4.12</junit.version>
